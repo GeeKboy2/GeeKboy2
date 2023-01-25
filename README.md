@@ -1,5 +1,3 @@
-[![MasterHead](https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm GeeKboyboss</h1>
 <h3 align="center">A passionate engineer in computer science who intends to specialise in AI.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">

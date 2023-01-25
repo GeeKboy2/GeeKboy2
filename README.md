@@ -17,13 +17,13 @@
 <p><a href="https://www.buymeacoffee.com/GeeKboyboss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="GeeKboyboss" /></a></p><br><br>
 
 ### 📈 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekboy2&show_icons=true&locale=en&theme=tokyonight" alt="geekboy2" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=geekboy2&show_icons=true&locale=en&theme=tokyonight" alt="geekboy2" /></p>
 
 ### 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekboy2&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="geekboy2" /></p>
 
 ### 🔥 Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekboy2&theme=tokyonight" alt="geekboy2" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=geekboy2&theme=tokyonight" alt="geekboy2" /></p>
 
 ### 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekboy2&theme=radical" alt="geekboy2" /></a> </p>

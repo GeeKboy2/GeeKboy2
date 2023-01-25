@@ -1,5 +1,6 @@
-<img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/tFRtgmmVGXscpMfYTK/giphy.gif">
+[![MasterHead] <img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/tFRtgmmVGXscpMfYTK/giphy.gif"> ]
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/e1STTMkPKrcZJeQXYk/giphy.gif">
+
 
 <h1 align="center">Hi 👋, I'm GeeKboyboss</h1>
 <h3 align="center">A passionate engineer in computer science who intends to specialise in AI.</h3>

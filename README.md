@@ -19,9 +19,9 @@
 ### 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekboy2&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="geekboy2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekboy2&show_icons=true&locale=en&theme=tokyonight" alt="geekboy2" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=geekboy2&show_icons=true&locale=en&theme=tokyonight" alt="geekboy2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekboy2&theme=tokyonight" alt="geekboy2" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=geekboy2&theme=tokyonight" alt="geekboy2" /></p>
 
 ### 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekboy2&theme=radical" alt="geekboy2" /></a> </p>

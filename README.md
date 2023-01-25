@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm GeeKboyboss</h1>
 <h3 align="center">A passionate engineer in computer science who intends to specialise in AI.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fdommespace-domme-space-programador-qgQUggAC3Pfv687qPC&psig=AOvVaw2XhXPXWMzE82J-iv3kCDBA&ust=1674734829460000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDf28bX4vwCFQAAAAAdAAAAABA4.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekboy2&label=Profile%20views&color=0e75b6&style=flat" alt="geekboy2" /> </p>
 

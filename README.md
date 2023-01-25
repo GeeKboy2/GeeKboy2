@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/JyDMX1pVgdHl6/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.giphy.com/media/3TZgJXiwbdbLG/giphy.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm GeeKboyboss</h1>
 <h3 align="center">A passionate engineer in computer science who intends to specialise in AI.</h3>

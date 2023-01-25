@@ -27,4 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekboy2&theme=tokyonight" alt="geekboy2" /></p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekboy2" alt="geekboy2" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekboy2&theme=tokyonight" alt="geekboy2" /></a> </p>

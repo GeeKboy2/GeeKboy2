@@ -1,5 +1,6 @@
-[![MasterHead] <img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/tFRtgmmVGXscpMfYTK/giphy.gif"> ]
+<img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/tFRtgmmVGXscpMfYTK/giphy.gif">
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/e1STTMkPKrcZJeQXYk/giphy.gif">
+[![MasterHead](euh)]
 
 
 <h1 align="center">Hi 👋, I'm GeeKboyboss</h1>

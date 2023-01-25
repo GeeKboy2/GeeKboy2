@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GeeKboyboss</h1>
-<h3 align="center">A passionate engineer in computer science who intends to specialise in AI.</h3>
+<h3 align="center">an engineer in computer science with a strong interest in artificial intelligence. I am eager to deepen my understanding of AI and its potential applications in various fields.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekboy2&label=Profile%20views&color=0e75b6&style=flat" alt="geekboy2" /> </p>

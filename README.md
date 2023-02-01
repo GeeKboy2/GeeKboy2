@@ -20,10 +20,10 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=geekboy2&show_icons=true&locale=en&theme=juicyfresh" alt="geekboy2" /></p><br><br><br><br><br><br><br><br>
 
 ### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekboy2&show_icons=true&locale=en&layout=compact&theme=juicyfresh" alt="geekboy2" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekboy2&show_icons=true&locale=en&layout=compact&theme=juicyfresh" alt="geekboy2" /></p><br><br>
 
 ### 🔥 Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekboy2&theme=juicyfresh" alt="geekboy2" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekboy2&theme=juicyfresh" alt="geekboy2" /></p><br><br>
 
 ### 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekboy2&theme=juicyfresh" alt="geekboy2" /></a> </p>

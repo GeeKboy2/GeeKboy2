@@ -19,7 +19,7 @@
 ----
 
 ### 📈 GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=geekboy2&show_icons=true&locale=en&theme=juicyfresh" alt="geekboy2" /></p><br><br><br><br><br><br><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=geekboy2&show_icons=true&locale=en&theme=juicyfresh" alt="geekboy2" /></p><br><br><br><br>
 
 ----
 

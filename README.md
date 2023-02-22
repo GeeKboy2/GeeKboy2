@@ -19,16 +19,11 @@
 ----
 
 ### 📈 GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=geekboy2&show_icons=true&locale=en&theme=juicyfresh" alt="geekboy2" /></p><br><br><br><br><br><br><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=geekboy2&show_icons=true&locale=en&theme=juicyfresh" alt="geekboy2" /></p><br><br><br><br><br><br><br><br><br>
 
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekboy2&show_icons=true&locale=en&layout=compact&theme=juicyfresh" alt="geekboy2" /></p>
-
-----
-
-### 🔥 Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekboy2&theme=juicyfresh" alt="geekboy2" /></p>
 
 ----
 
